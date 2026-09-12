@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# Checkpoints (too large for git)
+*.pth
+
+# Raw MVSA images (~200MB) — use preprocess_mvsa.py after downloading labels
+data/MVSA_Single/data/
+
+# Local docs / caches
+*.docx
+*.hprof
+.DS_Store
+Thumbs.db

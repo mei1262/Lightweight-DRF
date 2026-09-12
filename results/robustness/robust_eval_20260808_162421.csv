@@ -1,0 +1,3 @@
+mode,model,disrupted_modality,disruption_type,disruption_ratio,accuracy,weighted_f1,macro_f1
+clean,baseline,none,none,0.0,0.7256637168141593,0.7121346258360303,0.6060578939517579
+clean,drf,none,none,0.0,0.6991150442477876,0.6784589361353888,0.5515358073106943
